@@ -1,2 +1,0 @@
-# stm32_empty_project
-STM32_Empty_Project
